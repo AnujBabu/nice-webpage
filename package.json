@@ -1,0 +1,19 @@
+{
+	"name": "webpage",
+	"version": "6.0.0",
+	"description": "My personal webpage source >:3",
+	"author": {
+		"email": "hi@338.rocks",
+		"name": "Barış DEMİRCİ",
+		"url": "https://338.rocks"
+	},
+	"license": "GPL-3.0",
+	"scripts": {
+		"format": "prettier --write .",
+		"update": "taze latest -w"
+	},
+	"devDependencies": {
+		"prettier": "^3.0.3",
+		"taze": "^0.11.4"
+	}
+}
